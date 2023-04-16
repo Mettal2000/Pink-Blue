@@ -1,4 +1,4 @@
-# Pink-Blue
+# Pink&Blue
 
 This is a LAN multiplayer game where Pink and Blue can collect berries and see their respective counters go up!
 
